@@ -251,7 +251,7 @@ img{
 
 /* Active link */
 .active-link{
-    color: var(--first-color)
+    color: var(--first-color);
 }
 
 
